@@ -20,3 +20,4 @@ Salin isi folder ini (app, public, resources, routes) ke proyek Laravel 12, timp
 | Footer | resources/views/partials/footer.blade.php |
 | Warna, gaya, font nama | public/css/style.css |
 | Daftar halaman (route) | routes/web.php |
+# Mirah_dhinata
